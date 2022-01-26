@@ -1,0 +1,9 @@
+C:\Users\seyma\Desktop\RabbitMQ.Example\RabbitMQData\bin\Debug\netcoreapp3.1\RabbitMQData.deps.json
+C:\Users\seyma\Desktop\RabbitMQ.Example\RabbitMQData\bin\Debug\netcoreapp3.1\RabbitMQData.dll
+C:\Users\seyma\Desktop\RabbitMQ.Example\RabbitMQData\bin\Debug\netcoreapp3.1\RabbitMQData.pdb
+C:\Users\seyma\Desktop\RabbitMQ.Example\RabbitMQData\obj\Debug\netcoreapp3.1\RabbitMQData.AssemblyInfoInputs.cache
+C:\Users\seyma\Desktop\RabbitMQ.Example\RabbitMQData\obj\Debug\netcoreapp3.1\RabbitMQData.AssemblyInfo.cs
+C:\Users\seyma\Desktop\RabbitMQ.Example\RabbitMQData\obj\Debug\netcoreapp3.1\RabbitMQData.csproj.CoreCompileInputs.cache
+C:\Users\seyma\Desktop\RabbitMQ.Example\RabbitMQData\obj\Debug\netcoreapp3.1\RabbitMQData.dll
+C:\Users\seyma\Desktop\RabbitMQ.Example\RabbitMQData\obj\Debug\netcoreapp3.1\RabbitMQData.pdb
+C:\Users\seyma\Desktop\RabbitMQ.Example\RabbitMQData\obj\Debug\netcoreapp3.1\RabbitMQData.GeneratedMSBuildEditorConfig.editorconfig
